@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-t5b_ld!b44gip%^24jv8w076iul#09*eiza#^$!n(%y6z=*=58
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "student-result-management-u40p.onrender.com",
+    "student-result-management-ojog.onrender.com",
     "127.0.0.1",
     "localhost",
 ]
